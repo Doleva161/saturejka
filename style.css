@@ -9,3 +9,12 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
+body {
+    padding: 30px 20%;
+    margin: 0;
+}
+
+img{
+    size: 150px;
+}
