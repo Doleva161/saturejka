@@ -15,15 +15,39 @@ body {
     margin: 0;
 }
 
-img{
-    size: 25%;
+.home_1,
+.home_2,
+.home_3
+{
+    width: 32%;
 }
 
-.losos,
-.melancholie{
+.obrazek_losos,
+.obrazek_melancholie{
+  width: 350px;
   float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
 }
 
-.tagliatelle{
+.obrazek_tagliatelle{
+  width: 350px;
   float: right;
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+body{
+  background-color: #FFFFFF;
+ 
+}
+
+.section{
+  background-color:#FFEFEF;
+}
+
+.section2,
+.section3,
+.section4{
+  overflow:hidden;
 }
