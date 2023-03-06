@@ -16,5 +16,14 @@ body {
 }
 
 img{
-    size: 150px;
+    size: 29%;
+}
+
+.losos,
+.melancholie{
+  float: left;
+}
+
+.tagliatelle{
+  float: right;
 }
